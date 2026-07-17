@@ -73,16 +73,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Flutter
@@ -92,13 +82,6 @@
 * Artificial Intelligence
 * UI/UX Design
 * System Design
-
----
-
-## 📫 Let's Connect
-💼 LinkedIn
-📧 Email
-🌍 Portfolio (Coming Soon)
 
 ---
 
