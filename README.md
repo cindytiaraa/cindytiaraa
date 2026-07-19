@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/cindy-tiara-anastasya-7388382a7/">
   <img src="https://img.shields.io/badge/LinkedIn-64B5F6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:cindytiaraa85@gmail.com">
   <img src="https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="#">
@@ -48,13 +48,11 @@
 <sub>🐇 · 🌸</sub>
 </div>
 
-I'm a Software Engineering student who believes the best products live at the intersection of **solid engineering** and **thoughtful design**. My work moves between writing clean, maintainable code and shaping interfaces that feel effortless to use.
+I'm a Software Engineering student who enjoys building digital products that solve real-world problems. I learn best by creating—whether it's a mobile app, a web application, or experimenting with new ideas.
 
-I mainly build with **Flutter** and **Laravel**, translating ideas into products that are functional first, refined second, and memorable because of both. Alongside that, I'm developing an eye for **UI/UX** rooted in human-centered thinking, not just visual polish.
+I mainly work with Flutter and Laravel, and I've also developed an interest in UI/UX design because I enjoy creating applications that are simple, clean, and easy to use.
 
-Right now, I'm expanding into **Artificial Intelligence** — curious about how intelligent systems can be woven into everyday tools without losing the simplicity that makes them usable.
-
-What drives me isn't just shipping features. It's the process of turning a rough idea into something someone actually enjoys using.
+Currently, I'm exploring Artificial Intelligence while continuously learning through every project I build.
 
 <br/>
 
@@ -70,25 +68,40 @@ What drives me isn't just shipping features. It's the process of turning a rough
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,php,js,html,css,mysql&theme=light" />
+<a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart&theme=light" /></a>
+<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php&theme=light" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=light" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=light" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=light" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
 
 <br/><br/>
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,laravel,bootstrap&theme=light" />
+<a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter&theme=light" /></a>
+<a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel&theme=light" /></a>
+<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" /></a>
 
 <br/><br/>
 
 **Database & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=light" />
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
+<a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=light" /></a>
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=light" /></a>
 
 <br/><br/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,ps,laragon&theme=light" />
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=light" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=light" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=light" /></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=light" /></a>
+<a href="https://laragon.org"><img src="https://skillicons.dev/icons?i=laragon&theme=light" /></a>
 
 </div>
 
