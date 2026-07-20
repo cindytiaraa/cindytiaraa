@@ -12,7 +12,7 @@
 
 <sub>🌸</sub>
 
-<i>Building software with the discipline of an engineer,<br/>and the eye of a designer.</i>
+<i>Turning ideas into digital products through software engineering and thoughtful design.</i>
 
 </div>
 
@@ -47,13 +47,11 @@
 <div align="right">
 <sub>🐇 · 🌸</sub>
 </div>
+I'm a Software Engineering student who enjoys building digital products that solve real-world problems. I learn best by creating—whether it's developing mobile apps, web applications, or exploring new ideas through hands-on projects.
 
-I'm a Software Engineering student who enjoys building digital products that solve real-world problems. I learn best by creating—whether it's a mobile app, a web application, or experimenting with new ideas.
+I primarily build with **Flutter** and **Laravel**, and I've developed a growing interest in **UI/UX design** because I enjoy creating applications that are simple, intuitive, and enjoyable to use.
 
-I mainly work with Flutter and Laravel, and I've also developed an interest in UI/UX design because I enjoy creating applications that are simple, clean, and easy to use.
-
-Currently, I'm exploring Artificial Intelligence while continuously learning through every project I build.
-
+Currently, I'm exploring **Artificial Intelligence** while continuously expanding my skills through every project I work on.
 <br/>
 
 <div align="center">
@@ -100,8 +98,6 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=light" /></a>
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=light" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=light" /></a>
-<a href="https://laragon.org"><img src="https://skillicons.dev/icons?i=laragon&theme=light" /></a>
 
 </div>
 
@@ -120,21 +116,21 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 <td width="50%" valign="top">
 
 **Engineering**
-- Flutter Development
-- Laravel Development
-- Clean Architecture
-- REST API Design
-- System Design
+• Flutter Development
+• Laravel Development
+• REST API
+• Database Design
+• Software Testing
 
 </td>
 <td width="50%" valign="top">
 
-**Design & Research**
-- UI/UX Design
-- Product Design
-- Human-Centered Design
-- Artificial Intelligence
-- Software Engineering Fundamentals
+**Design & Learning**
+• UI/UX Design
+• Artificial Intelligence
+• Mobile Development
+• Web Development
+• Continuous Learning
 
 </td>
 </tr>
@@ -154,23 +150,11 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 
 <tr>
 <td width="70%">
-<h4>Smart Pantry</h4>
-<p>A mobile solution for tracking household food inventory, reducing waste through smart reminders and simple, intuitive interactions.</p>
-</td>
-<td width="30%" valign="top">
-<code>Flutter</code> <code>Firebase</code>
-</td>
-</tr>
-
-<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
-
-<tr>
-<td width="70%">
 <h4>Pujasera Helpdesk</h4>
-<p>A support ticketing system designed to streamline communication between tenants and management within a food court environment.</p>
+<p>A Flutter-based mobile helpdesk application that simplifies service request management between tenants and administrators using a ticketing system.</p>
 </td>
 <td width="30%" valign="top">
-<code>Laravel</code> <code>MySQL</code>
+<code>Flutter</code> <code>Supabase</code>
 </td>
 </tr>
 
@@ -179,10 +163,10 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 <tr>
 <td width="70%">
 <h4>Takoyaki House</h4>
-<p>A business-oriented web application built to digitize ordering and streamline daily operations for a small F&amp;B enterprise.</p>
+<p>A responsive website prototype for a Japanese street food business, featuring menu browsing, digital ordering, and a modern user interface.</p>
 </td>
 <td width="30%" valign="top">
-<code>Laravel</code> <code>Bootstrap</code>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 </td>
 </tr>
 
@@ -190,28 +174,15 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 
 <tr>
 <td width="70%">
-<h4>Circular Economy Innovation</h4>
-<p>A concept-driven project exploring how design and technology can support sustainable, circular consumption habits.</p>
+<h4>Koleksi Buku</h4>
+<p>A Laravel web application developed to manage book collections with authentication, CRUD operations, and database integration.</p>
 </td>
 <td width="30%" valign="top">
-<code>UI/UX</code> <code>Research</code>
-</td>
-</tr>
-
-<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
-
-<tr>
-<td width="70%">
-<h4>Laravel Academic Projects</h4>
-<p>A collection of coursework applications focused on strengthening backend fundamentals, database design, and REST API practices.</p>
-</td>
-<td width="30%" valign="top">
-<code>Laravel</code> <code>SQL</code>
+<code>Laravel</code> <code>MySQL</code>
 </td>
 </tr>
 
 </table>
-
 <br/>
 
 <div align="center">
@@ -242,56 +213,6 @@ Currently, I'm exploring Artificial Intelligence while continuously learning thr
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cindytiaraa&theme=minimal&color=F48FB1&line=64B5F6&point=5c4433&area_color=F8BBD0&area=true&hide_border=true&bg_color=00000000" />
 
 </div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/cindytiaraa/cindytiaraa/output/github-contribution-grid-snake.svg" />
-
-<sub>Generated via GitHub Actions — see setup note below</sub>
-
-</div>
-
-<br/>
-
-<details>
-<summary><sub>Snake animation setup (one-time)</sub></summary>
-<br/>
-
-To activate the snake animation above, add this workflow file to your profile repository at
-`.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once it runs, the snake image URL above will render automatically.
-
-</details>
 
 <br/>
 
